@@ -7,7 +7,7 @@ pipeline {
       }
     }
     
-    stage('Build') {
+    stage('Build-2') {
       steps {
         sh 'echo "Souarv is great"'
       }
